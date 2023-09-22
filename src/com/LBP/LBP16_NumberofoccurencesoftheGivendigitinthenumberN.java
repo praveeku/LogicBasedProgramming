@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 Number of Occurrences
 
-Program to find number of occurences of the given digit in the number n
+Program to find number of occurences the of the given digit in the number n
 
 input ------> two numbers n and d
 constraints-> no constraints
